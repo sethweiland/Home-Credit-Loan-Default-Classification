@@ -1,0 +1,8 @@
+flask
+gunicorn
+numpy
+lightgbm
+Flask-Table
+pickle
+csv
+pandas
