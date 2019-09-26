@@ -4,6 +4,10 @@
 * The app will process/clean the files, run a model, and return predicitons in an html table
 * Above the html table the user has the ability to download the predictions, associated application id's and decisions (reject or accept the loan) as a csv.
 
-![App Home Page](https://github.com/sethweiland/Home-Credit-Loan-Default-Classification/blob/master/Screen%20Shot%202019-09-26%20at%2011.39.19%20AM.png)
+![App Home Page](https://github.com/sethweiland/Home-Credit-Loan-Default-Classification/blob/master/Screen%20Shot%202019-09-26%20at%2012.28.29%20PM.png)
+
+![Predictions/Decisions Page](https://github.com/sethweiland/Home-Credit-Loan-Default-Classification/blob/master/Screen%20Shot%202019-09-26%20at%2012.28.41%20PM.png)
+
+![Loan Officer Dashboard with Feature Importance and Number of Accepted, Loan officer follow up, and reject](https://github.com/sethweiland/Home-Credit-Loan-Default-Classification/blob/master/Screen%20Shot%202019-09-26%20at%2012.28.59%20PM.png)
 
 
